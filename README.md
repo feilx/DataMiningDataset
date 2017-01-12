@@ -1,2 +1,2 @@
-# DataMiningDataset
-Dataset for Data Mining
+# 数据挖掘数据集
+该数据集为**数据挖掘与R语言**微信公众号中的演示数据集
